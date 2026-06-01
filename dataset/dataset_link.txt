@@ -1,0 +1,10 @@
+Brain Tumor MRI Dataset
+
+Source:
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
+Classes:
+- Glioma
+- Meningioma
+- Pituitary
+- No Tumor
